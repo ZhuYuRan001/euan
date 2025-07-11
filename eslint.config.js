@@ -28,6 +28,7 @@ export default tseslint.config(
       "no-cond-assign": ["error"],
       "no-constant-binary-expression": ["error"],
       quotes: ["warn", "double"],
+      semi: ["error", "always"],
     },
   },
 );
